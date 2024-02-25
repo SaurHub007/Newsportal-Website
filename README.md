@@ -5,7 +5,8 @@ And Some Little Bit Of JavaScript <br>
 This is VEry Easy TO Understand And A front-end Working Project Which Gives You Live Data <br>
 
 <h3>Used Thing In Project <h5>
-1) HTML
-2) CSS
-3) JavaScript
-4) APL And Keys
+1) HTML <br>
+2) CSS <br>
+3) JavaScript <br>
+4) APL And Keys <br>
+
